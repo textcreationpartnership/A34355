@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations upon the choice of a Speaker at the House of Commons in the approaching session</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34355</idno>
+            <idno type="STC">Wing C5923</idno>
+            <idno type="STC">ESTC R29685</idno>
+            <idno type="EEBO-CITATION">11192400</idno>
+            <idno type="OCLC">ocm 11192400</idno>
+            <idno type="VID">46650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations upon the choice of a Speaker at the House of Commons in the approaching session</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46650:1"/>
+            <pb facs="tcp:46650:1"/>
+            <p>CONSIDERATIONS UPON THE CHOICE OF A SPEAKER OF THE <hi>Houſe of Commons</hi> In the Approaching SESSION.</p>
+            <p>
+               <q rend="italic">Caeterum nequicquam perierit ille: cujus interitu quid gaviſi ſumus, ſi mortuo nihilominus ſervituri eramus? Vivat Hercule Cicero, qui poteſt, ſupplex &amp; obnoxius, ſi neque aetatis, neque honorum, neque rerum geſtarum pudet. Ego certè cum ipſa re bellum geram, hoc eſt cum regno, &amp; imperiis extraordinariis, &amp; dominatione &amp; potentia, quae ſupra leges ſe eſſe velit.—Nulla eſt tam bona conditio ſervien<g ref="char:EOLhyphen"/>di, quâ non deterrear.</q>
+               <bibl>Epiſt. M. Bruti ad T. Pomp. Atticum.</bibl>
+            </p>
+            <p>Printed in the Year 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:46650:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:46650:2"/>
+            <head>
+               <hi>CONSIDERATIONS upon the Choice of a</hi> SPEAKER.</head>
+            <p>EVERY Man who has at any time ſat in the Houſe of Commons, muſt be ſenſible, that the Choice of a Speaker is a matter of the greateſt importance with relation to the Freedom of that Houſe: and if Liberty be there deſtroy'd in the Root, it cannot ſurvive in the Branches. For this reaſon, as is very well obſerved in the King's Declaration, when Prince of <hi>Orange,</hi> The <hi>evil Counſellors</hi> of the late Reign thought the ſureſt method to enſlave us was, <hi>by undermining the Liberty of Parliaments:</hi> And one ſtep which ſuch evil Counſellors have always made in that execrable attempt, has bin by Places, Bribes and Penſions, to take off the Speaker, well knowing that the Freedom of <hi>that Houſe</hi> depends in a great meaſure upon their <hi>Speaker,</hi> as our Laws and Rights depend upon <hi>that Houſe.</hi>
+            </p>
+            <p>A Man may eaſily foreſee, that whenever <hi>Slavery</hi> ſhall be intirely fix'd in <hi>England,</hi> as it is among almoſt all our Neighbors, it muſt be done by a <hi>corrupted Parliament</hi> eſta<g ref="char:EOLhyphen"/>bliſhing a <hi>Standing Army:</hi> by which means this Kingdom will feel the effects of Tyranny from that Place which ought to be the Source of Liberty.</p>
+            <p>Upon this Foundation my Lord <hi>Burleigh</hi> grounded his Maxim, <hi>That</hi> England <hi>can never be thorowly ruin'd but by a Parliament.</hi> And I am ſure a Parliament can never be more thorowly fitted to ruin <hi>England,</hi> than when by the influ<g ref="char:EOLhyphen"/>ence of many Members brib'd by Places of Profit and Pen<g ref="char:EOLhyphen"/>ſions, a Speaker ſhall in ſome future Reign be put into the Chair, to whom thoſe that are his Friends can allow no
+<pb n="4" facs="tcp:46650:3"/> other Character than Confidence and Dexterity; and that Character, thoſe who ſhall then oppoſe him, will not deny to him.</p>
+            <p>Such a one may be granted to be an able Man; but thoſe Abilities in that place the Nation may juſtly dread.</p>
+            <p>Can it with any colour of Reaſon or Prudence be ſaid, <hi>That there is no danger, let the Diſpoſition and Obligations of the Speaker be what they will: He is but a ſingle Man; and beſides does not determin Queſtions?</hi> 'Tis true, the ableſt General alone, and without Troops, is inſignificant: But when regulated and well paid Forces have a bold and skilful Leader at their Head, they muſt conquer; eſpecially if thoſe they encounter be an undiſciplin'd Militia juſt brought out of their ſeveral Counties.</p>
+            <p>Mankind can judg of few things otherwiſe than by out<g ref="char:EOLhyphen"/>ward appearances, which are often deceitful. This is the Cauſe, and may be alſo an excuſe, if former Parliaments were diſappointed in their Speaker, whoſe Frailty, after he was choſen, may have bin overcome by the Gifts and pre<g ref="char:EOLhyphen"/>vailing Courtſhip of the Miniſters of State. But ſurely the Majority of a Houſe of Commons will never chuſe one to be their Speaker, whom they find (if the Expreſſion may be pardoned) already debauch'd, and once rejected on the like occaſion.</p>
+            <p>This as it will be the firſt ſtep, ſo is it of the higheſt con<g ref="char:EOLhyphen"/>ſequence; for an Error here, like one in War, can never be retrieved: And undoubtedly 'twill be thought a very ill Omen of what may be expected from this Houſe of Com<g ref="char:EOLhyphen"/>mons, if they ſhould ſo unfortunately ſtumble at the Threſhold.</p>
+            <p>It has bin criminal formerly in a Speaker of the Houſe of Commons to go to Court: but the Duty of the Office of a Lord of the Treaſury muſt bring him there, and under the greateſt Temptation of compliance to every thing that
+<pb n="5" facs="tcp:46650:3"/> is demanded. Nor will the ill effect this may have upon the Liberty of Parliaments ſtop here; for 'tis moſt certain that ſuch things as are either allow'd or conniv'd at under the Reigns of good Princes, will be made Precedents under the bad.</p>
+            <p>Freedom of Speech, and other eſſential Orders of the Houſe, may probably be endanger'd by one who has de<g ref="char:EOLhyphen"/>clar'd he knows no <hi>Order</hi> but the <hi>Majority:</hi> and if he ven<g ref="char:EOLhyphen"/>tur'd to ſpeak ſo plainly, whilſt we may preſume he was aiming at that Honor which ſome would confer upon him, how will he tyrannize with a <hi>Majority</hi> that he will either find or bring into the Intereſt of the Court, when he is poſ<g ref="char:EOLhyphen"/>ſeſs'd of the Speaker's Chair?</p>
+            <p>There are ſome publick Truſts, that in their nature are inconſiſtent with one another, and ought never to be joined in the ſame Perſon, being deſign'd to be a check upon each other: And a good Man can neither with decency nor ho<g ref="char:EOLhyphen"/>neſty unite ſuch different Truſts in himſelf. But neither Decency nor Honeſty will bound the Ambition of ſome Men.</p>
+            <p>Suppoſe there has bin the greateſt Miſapplication of the publick Revenues at a time when the Kingdom is under the extremeſt neceſſity, is it probable that a Speaker will be im<g ref="char:EOLhyphen"/>partial, or any way aſſiſtant to the Houſe in an inquiry af<g ref="char:EOLhyphen"/>ter ſuch Miſmanagement, who was Lord of the Treaſury during the time of it?</p>
+            <p>Suppoſe a Gentleman was ſixteen thouſand Pounds Deb<g ref="char:EOLhyphen"/>tor to the Crown upon the Revolution, and in a particular Clauſe of the Act of Indemnity procur'd from the Court a Releaſe of that Debt; Can it be expected, that in Enqui<g ref="char:EOLhyphen"/>ries how vaſt Sums have bin imbezel'd ſince that time, the Grand Inqueſt of the Nation will be able to make any pro<g ref="char:EOLhyphen"/>greſs with ſuch a Foreman?</p>
+            <pb n="6" facs="tcp:46650:4"/>
+            <p>Suppoſe there is a Debt growing every day upon the Na<g ref="char:EOLhyphen"/>tion by Seamen not diſcharg'd, while the Mony given for ſo neceſſary a purpoſe has bin diſpos'd of for keeping up an Army that ſhould have bin disbanded purſuant to the Deter<g ref="char:EOLhyphen"/>mination of the laſt Parliament upon the moſt mature and ſolemn Debates; Muſt not the Houſe expect Interruptions in bringing on that matter, Difficulties in wording, and De<g ref="char:EOLhyphen"/>lays in putting the Queſtion from one who in his Station at Court may be perhaps charg'd with adviſing the keeping up of the Army; and in the laſt Parliament was the beſt and moſt artificial Advocate againſt disbanding it at all?</p>
+            <p>Theſe and many other things of the higheſt Importance to our ſelves and our Poſterity, will fall under the conſidera<g ref="char:EOLhyphen"/>tion of the Parliament in the enſuing Seſſion, it being evi<g ref="char:EOLhyphen"/>dent that this time of Peace is the moſt proper, if not the only ſeaſon for rectifying Miſcarriages; the Examination and Puniſhment of which, it may be alledg'd, was pru<g ref="char:EOLhyphen"/>dent to adjourn during the War.</p>
+            <p>If a Great Officer be made Speaker, 'tis the moſt natural thing in the world to believe that he will uſe the ſame Arts to keep his Office as he did to get it: And if it be conſidered how ſeveral Members of our late Parliaments got into the moſt advantageous places of Profit, whom the Court would not have ſeen, nor the Country felt, had they not bin firſt Members, it muſt be granted that they were advanced not by ſerving the Nation, but the Court.</p>
+            <p>Let not any Man think this diſtinction of <hi>Court and Coun<g ref="char:EOLhyphen"/>try</hi> Party in the Houſe of Commons to be groundleſs or ill meant: for if ever a Parliament was without ſuch a diſtin<g ref="char:EOLhyphen"/>ction, it was when a Court was without ſuch Miniſters; who inſtead of ſerving the Government, ſerve themſelves upon it, at the expence of their Maſter's Honour, and by impoveriſhing their Country; who inſtead of being qualifi<g ref="char:EOLhyphen"/>ed to render his Majeſty great, and the People happy, ſeem
+<pb n="7" facs="tcp:46650:4"/> only to be fitted to bring the King, if it were poſſible, into diſeſteem, and to make the Kingdom miſerable. And whereas the Honour, Safety and Strength of the King de<g ref="char:EOLhyphen"/>pends upon having no other Intereſt than that of his People, 'tis his Majeſty's misfortune to be repreſented by the Acti<g ref="char:EOLhyphen"/>ons of ſuch Officers, as if his and the Peoples Intereſt were not only divided, but inconſiſtent. If ſuch as theſe are leading Men in a Houſe of Commons, they give juſt Rea<g ref="char:EOLhyphen"/>ſon to all that love <hi>England,</hi> and have upon Principles of Liberty freely expos'd their Lives and Eſtates for the preſent Government, to make this <hi>neceſſary Diſtinction,</hi> leſt ſome Men ſhould be induc'd to believe that Kingſhip it ſelf is in<g ref="char:EOLhyphen"/>ſupportable, and others that Parliaments are a Burden.</p>
+            <p>'Tis this Diſtinction muſt preſerve the Honour of our an<g ref="char:EOLhyphen"/>tient Conſtitution of Government, till it may flouriſh under the Influence of a Parliament, in which none or few who have gainful Offices ſhall be Members of the Houſe of Com<g ref="char:EOLhyphen"/>mons. But a Bill to that purpoſe is not to be expected, when a Great Officer is Speaker.</p>
+            <p>The Executive Power ought not to be lodg'd in that Houſe, becauſe it would deprive the Kingdom of that which is the nobleſt and moſt uſeful Work of their Repre<g ref="char:EOLhyphen"/>ſentatives, <hi>The calling ill Miniſters to account,</hi> and the pre<g ref="char:EOLhyphen"/>ſerving a ſteddy Adminiſtration in the ſubordinate Officers of the Government.</p>
+            <p>But in a Houſe of Commons abounding with Officers, if any one of them be attack'd, it alarms the whole Fra<g ref="char:EOLhyphen"/>ternity, and they all engage to bring him off, tho it be by the ſcandalous way of putting the Queſtion for Candles, and carrying it in the Negative. This was the caſe of the Ad<g ref="char:EOLhyphen"/>miralty laſt Parliament, and may be of the Treaſury this Seſſion, if Fortune prove ſo propitious, that one of their Number be made Speaker. This Point gain'd, the next will probably be to eſtabliſh the Army, and then to ſuſpend or repeal the Triennial Act.</p>
+            <pb n="8" facs="tcp:46650:5"/>
+            <p>Nothing can equal ſuch a Choice, unleſs we could ſuppoſe the Houſe of Commons ſhould fix upon ſome old Proſtitute of the exploded Penſion'd Parliament in <hi>Charles</hi> the Second's Reign, who has from that time bin tricking in the Houſe in ſo ſhameful a manner, that the ſeveral Periods of his Life may be mark'd out by the bargains he has made there, when the Court has come up to his price.</p>
+            <p>His Corruption in that Station has bin as notorious as his Ability to do Miſchief; for both were extraordinary.</p>
+            <p>The Speaker's Chair may upon ſome ACCOUNTS be convenient to ſuch a one at this time; but I preſume the Houſe will have as little regard to his Conveniency, as he has had, and will have to the Liberties of his Country.</p>
+            <p>In a word, if it be expected that Miſdemeanors be in<g ref="char:EOLhyphen"/>quired into, beneficial Laws made, and thoſe which we al<g ref="char:EOLhyphen"/>ready poſſeſs, tranſmitted to our Poſterity, it muſt be ei<g ref="char:EOLhyphen"/>ther prodigious Folly, or an unaccountable Fate, if <hi>ſuch a Man,</hi> or a <hi>Lord of the Treaſury,</hi> be choſen Speaker of this Houſe of Commons.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:46650:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
